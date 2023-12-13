@@ -1,8 +1,8 @@
 <?php
 // Konfigurasi koneksi ke database MySQL
-$servername = "localhost"; // Ganti dengan nama server database Anda
-$username = "root"; // Ganti dengan username database Anda
-$password = ""; // Ganti dengan password database Anda
+$servername = "dbiot.cwm006uvfjrp.us-east-1.rds.amazonaws.com"; // Ganti dengan nama server database Anda
+$username = "wahyu8798"; // Ganti dengan username database Anda
+$password = "katak8798"; // Ganti dengan password database Anda
 $dbname = "dbiot"; // Ganti dengan nama database Anda
 
 // Buat koneksi
